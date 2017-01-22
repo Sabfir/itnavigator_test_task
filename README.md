@@ -11,10 +11,14 @@ Spring MVC + Hibernate + Embedded Database (HSQLDB).
 * JSF (Primefaces)
 
 ###2. To Run this project locally
-$ git clone https://github.com/Sabfir/spring-embedded-database
+```shell
+$ git clone https://github.com/Sabfir/itnavigator_test_task.git
+$ cd itnavigator_test_task
 $ mvn jetty:run
+```
 Access http://localhost:8080/
 
 ###2. To Stop the project
+```shell
 $ Ctrl+C
-
+```
